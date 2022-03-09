@@ -2,9 +2,7 @@
 
  # KESALAHAN TIDAK DI TANGGUNG PEMBUAT YA #
 
- Menu & Fitur Crack
-
-IMG_20220123_015205
+ Menu & Fitur Crack FB
 
 Installation
 
@@ -16,7 +14,7 @@ Installation
 
  pip2 install futures bs4
 
- git clone https://github.com/AngCyber/Crack
+ git clone https://github.com/GANZGZ/Crack
 
  cd Crack
 
